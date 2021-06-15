@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://https://fattiger251.github.io/</id>
+    <id>https://fattiger251.github.io/</id>
     <title>三流老师撸题记</title>
-    <updated>2021-06-15T21:39:16.557Z</updated>
+    <updated>2021-06-15T21:41:10.319Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://https://fattiger251.github.io/"/>
-    <link rel="self" href="https://https://fattiger251.github.io/atom.xml"/>
+    <link rel="alternate" href="https://fattiger251.github.io/"/>
+    <link rel="self" href="https://fattiger251.github.io/atom.xml"/>
     <subtitle>温故而知新</subtitle>
-    <logo>https://https://fattiger251.github.io/images/avatar.png</logo>
-    <icon>https://https://fattiger251.github.io/favicon.ico</icon>
+    <logo>https://fattiger251.github.io/images/avatar.png</logo>
+    <icon>https://fattiger251.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 三流老师撸题记</rights>
     <entry>
         <title type="html"><![CDATA[test测试]]></title>
-        <id>https://https://fattiger251.github.io/post/test-ce-shi/</id>
-        <link href="https://https://fattiger251.github.io/post/test-ce-shi/">
+        <id>https://fattiger251.github.io/post/test-ce-shi/</id>
+        <link href="https://fattiger251.github.io/post/test-ce-shi/">
         </link>
         <updated>2021-06-15T17:14:05.000Z</updated>
         <content type="html"><![CDATA[<p>这是第一篇文章。<br>
@@ -42,8 +42,8 @@ dfgdf</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://https://fattiger251.github.io/post/hello-gridea/</id>
-        <link href="https://https://fattiger251.github.io/post/hello-gridea/">
+        <id>https://fattiger251.github.io/post/hello-gridea/</id>
+        <link href="https://fattiger251.github.io/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
